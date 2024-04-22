@@ -39,7 +39,7 @@ body{
     font-optical-sizing: auto;
     font-weight: 550;
     font-style: normal;
-    bottom: 450px;
+    bottom: 150px;
     left: 60px;
 }
 
@@ -55,7 +55,7 @@ body{
     font-weight: 600;
     font-style: bold;
     position: absolute;
-    bottom: 370px;
+    bottom: 70px;
     left: 100px;
     font-size: 14px;
 }
@@ -148,7 +148,7 @@ a::after {
 .mc{
     position: absolute;
     right: 100px;
-    bottom: 1px;
+    bottom: -10px;
     width: 900px;
     height: 900px;
     rotate: 0 1 0 210deg;
